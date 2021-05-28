@@ -24,7 +24,7 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [https://www.frontendmentor.io/solutions/profile-card-component-html-and-css-7_6E8i5cU](https://www.frontendmentor.io/solutions/profile-card-component-html-and-css-7_6E8i5cU)
 - Live Site URL: [https://maicon-fs.github.io/profile-card-component/](https://maicon-fs.github.io/profile-card-component/)
 
 ## My process
